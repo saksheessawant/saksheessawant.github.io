@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 
-Hey there!
+Hey there! 👋🏼
 
 I'm Sakshee, a passionate software engineer with a knack for turning complex data into meaningful insights and innovations. Originally from Mumbai, now navigating the vibrant tech scene in New York City while pursuing my Master's in Computer Engineering at NYU.
 
@@ -11,13 +11,17 @@ I'm Sakshee, a passionate software engineer with a knack for turning complex dat
 
 ### New York University, NY
 
-| Master’s in Computer Engineering (GPA: 3.6/4) | 09/2023 – 05/2025 |
+Master’s in Computer Engineering (GPA: 3.6/4)
+
+09/2023 – 05/2025
 
 _Relevant Coursework:_ Principles of Database Systems, Probability and Stochastic Processes, Machine Learning, Advanced Machine Learning, Deep Learning, Machine Learning for Cybersecurity, System Engineering
 
 ### University of Mumbai, India
 
-| Bachelor of Engineering in Computer Engineering (GPA: 9.47/10) | 07/2018 – 05/2022 |
+Bachelor of Engineering in Computer Engineering (GPA: 9.47/10)
+
+07/2018 – 05/2022
 
 _Relevant Coursework:_ Database Management System, Data Warehousing & Mining, Machine Learning, Software Engineering
 
