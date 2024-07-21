@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "saksheessawant/saksheessawant.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://saksheessawant.github.io/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedi"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/saksh12/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -136,7 +136,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedi"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/saksh12/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
